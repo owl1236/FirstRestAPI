@@ -29,12 +29,12 @@ The app starts on `http://localhost:8080`.
 
 Base path: `/api/v1/products`
 
-| Method | Path | Description | Success |
-|---|---|---|---|
-| `POST` | `/api/v1/products` | Create a product | `201 Created` |
-| `GET` | `/api/v1/products/{id}` | Get a product by id | `200 OK` |
-| `PUT` | `/api/v1/products/{id}` | Update a product's name | `200 OK` |
-| `DELETE` | `/api/v1/products/{id}` | Delete a product | `204 No Content` |
+| Method | Path | Description | 
+|---|---|---|
+| `POST` | `/api/v1/products` | Create a product | 
+| `GET` | `/api/v1/products/{id}` | Get a product by id | 
+| `PUT` | `/api/v1/products/{id}` | Update a product's name | 
+| `DELETE` | `/api/v1/products/{id}` | Delete a product |
 
 ### Example
 
