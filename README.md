@@ -55,3 +55,28 @@ Request/response body:
 ```bash
 ./mvnw test
 ```
+## Examples
+
+### 1. Create a product (POST)
+
+Creating a product via the Swagger UI "Try it out" panel:
+
+![Create product](screenshots/1.PNG)
+
+### 2. Get a product by id (GET)
+
+Retrieving a product by its id:
+
+![Get product](screenshots/2.PNG)
+
+### 3. Update a product's name (PUT)
+
+Updating a product's name via the Swagger UI "Try it out" panel:
+
+![Update product](screenshots/3.PNG)
+
+### 4. Delete a product (DELETE)
+
+Deleting a product and the resulting response:
+
+![Delete product](screenshots/4.PNG)
